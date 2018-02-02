@@ -1,0 +1,25 @@
+{
+    "name": "markushaug/homify-exec",
+    "description": "",
+    "authors": [
+        {
+            "name": "Markus Haug",
+            "email": "mh@haugmarkus.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Exec\\Providers\\ExecServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Exec\\": ""
+        }
+    }
+}

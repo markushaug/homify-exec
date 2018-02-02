@@ -1,0 +1,16 @@
+{
+    "name": "Exec",
+    "alias": "exec",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Exec\\Providers\\ExecServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
