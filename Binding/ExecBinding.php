@@ -28,7 +28,7 @@ class ExecBinding
 
         if (is_array($la_args)) {
             foreach ($la_args as $la_arg) {
-                $lv_argString = $lv_argString . " " . $lv_argString;
+                $lv_argString = $lv_argString . " " . $la_arg;
             }
         } else {
             $lv_argString = $la_args;
