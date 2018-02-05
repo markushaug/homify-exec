@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec5a2b46994542d39707846e5da3d7e6)](https://www.codacy.com/app/markushaug/homify-exec?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=markushaug/homify-exec&amp;utm_campaign=Badge_Grade)
 ## homify-exec - Exec Binding for homify
 Control you devices with homify via the shell
 
